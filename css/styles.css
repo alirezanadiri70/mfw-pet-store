@@ -45,5 +45,8 @@ footer{
 }
 .list{
     list-style-type: none;
+    position: relative;
+    top:12px;
+    border-left:1px solid black;
     
 }
