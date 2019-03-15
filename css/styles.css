@@ -31,7 +31,7 @@ header h1{
 }
 footer{
     background-color:#eeddcd;
-    height: 90px;
+    height: 110px;
 }
 .vertical-line{
     width:1px;
@@ -49,4 +49,8 @@ footer{
     top:12px;
     border-left:1px solid black;
     
+}
+.par{
+    position: relative;
+    top:10px;
 }
